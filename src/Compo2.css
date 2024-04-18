@@ -1,0 +1,20 @@
+.formName{
+    margin-left: 400px;
+    float: right;
+    display: inline-block;
+  }
+  .wide-input {
+    width: 400px; /* Adjust width as needed */
+    padding: 10px; /* Adjust padding as needed */
+    font-size: 16px; /* Adjust font size as needed */
+  }
+Hide default radio button
+input[type="radio"] {
+  display: none;
+}
+h1{
+  margin-left: 1000px;
+}
+h2{
+  margin-left: 150px;
+}

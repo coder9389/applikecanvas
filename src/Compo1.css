@@ -1,0 +1,55 @@
+body{
+background-color: azure;
+}
+.firstDiv{
+  display: inline-block;
+  float: left;
+    width: 450px;
+    height: 500px;
+    border: 2px  solid black;
+    margin-left:10px ;
+    margin-top: 75px;
+    background-color:papayawhip;
+    border-radius: 10px;
+  }
+  .img
+  {
+    height: 100%;
+    width: 100%;
+  }
+  .secondDiv{
+    width: 250px;
+    height: 250px;
+    border: 2px  solid red;
+    margin-top: 70px;
+    margin-left:100px ;
+    margin-right: 100px;
+    border-radius: 20px;
+    background-color: aqua;
+
+    /* background-image:url("https://cdn.pixabay.com/photo/2016/11/19/12/54/drink-1839134_640.jpg"); */
+    /* background-size : 'cover';
+    background-position: 'center';
+    background-size:auto; */
+  }
+   .thirdDiv{
+    display: inline;
+    margin-left: 40px;
+  } 
+  .fourthDiv{
+  display: inline-block;
+  margin-top: 60px;
+  margin-left: 10px;
+  width: 300px;
+  height: 80px;
+  border: 2px  solid red;
+  border-radius: 20px;
+  background-color: chartreuse;  
+}
+
+  h1{
+    margin-left: 1000px;
+  }
+  h2{
+    margin-left: 150px;
+  }
